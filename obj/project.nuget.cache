@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8a19/IjWTA10QgfDnnCJdui+YItDi3XN/gzeYncVlfTlJq8P8U0ci+7HAMJFR8wHqTSCXZCA5BtNmB1XvG2lnw==",
+  "success": true,
+  "projectFilePath": "/Users/mowu/Desktop/project/test/asp.net.core/jon-crud/jon-crud.csproj",
+  "expectedPackageFiles": [
+    "/Users/mowu/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/mowu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
